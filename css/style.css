@@ -9,13 +9,6 @@
 */
 
 
-@media only screen and (max-device-width: 480px) {
-	#one:before {
-		background-image: url("../images/banner7.jpg");
-	}
-}
-
-
 
 /* Custom */
 
@@ -1106,3 +1099,12 @@
 				#footer .copyright li a {
 					color: inherit;
 				}
+
+
+
+
+@media only screen and (max-device-width: 480px) {
+	#one:before {
+		background-image: url("../images/banner-mobile.jpg");
+	}
+}
