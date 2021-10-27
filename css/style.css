@@ -46,7 +46,7 @@ p {
     line-height: 1.4;
     text-align: left;
     font-size: 1.1em;
-
+    paddint-top: 15px;
 }
 
 small {
