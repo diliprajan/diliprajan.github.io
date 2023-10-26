@@ -50,3 +50,14 @@ li {
 a, a:visited { color: black; }
 a:hover { color: black; text-decoration: none; }
 img.dilip { width: 250px; height: 250px; margin-bottom: 1em; }
+
+.masonry img {
+  height: 75px;
+}
+
+.lightbox-captions {
+  background-color: transparent !important;
+  color: black !important;
+  font-weight: 400;
+  font-size: 13px;
+}
